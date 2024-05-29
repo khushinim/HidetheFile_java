@@ -3,7 +3,6 @@ package dao;
 import db.MyConnection;
 import model.Data;
 
-import java.awt.image.RescaleOp;
 import java.io.*;
 import java.sql.*;
 import java.util.ArrayList;
